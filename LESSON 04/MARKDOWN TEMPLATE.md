@@ -14,7 +14,7 @@ This word is in _italics_.
 
 ## Add a link to https://letmegooglethat.com that opens when the user clicks on the word "here" in the next sentence. 
 
-If you do not know the answer to the question, please click here([https://letmegooglethat.com]). 
+If you do not know the answer to the question, please click ([here](https://letmegooglethat.com)). 
 
 ## Display the image https://gitbookdown.dallasdatascience.com/img/git_branch_merge.png inline. 
 
