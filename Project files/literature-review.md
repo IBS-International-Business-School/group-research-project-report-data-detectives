@@ -24,7 +24,7 @@ The psychology of color in promotional banners also influences consumer response
 
 Additionally, animated banners attract more initial attention than static alternatives, though the relationship between animation and conversion rates is less straightforward (Li and Huang, 2016).
 
-## References
+## References and Appendices
 Alshohaib, K.A. (2024) 'The impact of web banner colour on consumer emotions and purchase intentions', Commentary Article, 14(1).
 
 Baymard Institute (2025) 50 Cart Abandonment Rate Statistics 2025 – Cart & Checkout, Baymard. Available at: https://baymard.com/lists/cart-abandonment-rate (Accessed: 13 October 2025).
